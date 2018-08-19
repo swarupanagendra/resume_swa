@@ -1,0 +1,47 @@
+{
+	"basicdetails":{
+		"image":"Tulips.jpg",
+		"name":"p.swarupa",
+		"email":"somaswaroopa1999@gmail.com",
+		"phone":"7702600913",
+		"address":"1-82,guntur"
+	},
+	"education":[
+		{
+			"course":"b.tech(c.s.e)",
+			"college":"vignan nirula college",
+			"percentage":"70%"
+		},
+		{
+			"course":"intermediate(m.p.c)",
+			"college":"sri  chaitanyacollege",
+			"percentage":"70%"
+		},
+        {
+        	"course":"schooling",
+		    "college":"kanna school",
+			"percentage":"70%"
+		}
+],
+	"skills":[
+		{
+			"name":"operating systems",
+			"value":"windows.linux,MAC"
+		},
+		{
+			"name":"programming languages",
+			"value":"c,c++,java,python"
+		}
+	],
+	"carrier":{
+		"ca":"I am using my knowledge and skills towards the growth of our organization"
+},
+  "Achivements":[
+     "i got first prize in throwball competition in my college",
+     "i got second prize in snake and ladder in my college"
+
+],
+  "Description":{
+  	 "des":"here thereby all the above mentioned are my corcern"
+  }
+}
